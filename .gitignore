@@ -1,6 +1,9 @@
 # Ignore data folder
 data/
 
+#ignore geospatial data
+croatia/
+
 # Ignore pycache
 __pycache__
 
